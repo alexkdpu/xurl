@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:0,Twitch
+http://LOCAL_IP:6878/ace/getstream?direct_url=https://twitch.tv/ybicanoooobov&.mp4
+#EXTINF:0,TorrentStream  
+acestream://f28bcb602f53b082479345073b7b10626e5632a0
+#EXTINF:-1,Торрент
+torrent://http://d.rutor.info/download/599363
+#EXTINF:-1,Сериал
+magnet:?xt=urn:btih:44923f4d141343b0c01099ce7fa017d428db5fdc&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce
